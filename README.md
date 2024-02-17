@@ -3,6 +3,7 @@ All further examples including this one have been moved to the official [webdevd
 
 The Zach's Media Reviews demo link below still works and the page hasn't changed. Only it's location in github did.
 
+Zach's Media Reviews source code [here](https://github.com/ZachLTech/webdevcourse/tree/examples/examples/ZachsMediaReviews)
 
 ## ZachsMediaReviews
 Example Code for HTML section of https://webdev.zachl.space
